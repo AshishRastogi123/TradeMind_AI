@@ -30,7 +30,7 @@ def sidebar():
         "Portfolio (comma separated NSE symbols)",
         placeholder="RELIANCE.NS, TCS.NS"
     )
-    analyze_btn = st.sidebar.button("🚀 Run Multi-Agent Analysis")
+    analyze_btn = st.sidebar.button("Run Multi-Agent Analysis")
     hindi_toggle = st.sidebar.toggle("हिंदी व्याख्या (Hindi Explanation)", value=False)
 
     return groq_key, portfolio, analyze_btn, hindi_toggle

@@ -9,7 +9,7 @@
 *Real-time NSE stock analysis using collaborative AI agents – Opportunity Radar, Technical Analysis, Sentiment, Risk Assessment, Decision Engine & Explainable Insights*
 
 <div align=center>
-<img src="https://via.placeholder.com/800x400/FF6B6B/FFFFFF?text=TradeMind+AI+Demo" alt="Demo" width=800>
+<img src="demo.png" alt="Demo" width=800>
 <!-- Replace with actual screenshot/GIF after running app -->
 </div>
 
