@@ -13,3 +13,8 @@ python-dotenv
 black
 flake8
 pytest
+yfinance
+TA-Lib
+nsepy
+numpy
+scipy

@@ -18,4 +18,9 @@ dependencies = [
     "pytest>=8.4.1",
     "python-dotenv>=1.1.1",
     "streamlit>=1.48.0",
+    "yfinance>=0.2.40",
+    "TA-Lib>=0.4.32",
+    "nsepy>=0.8",
+    "numpy>=1.26.0",
+    "scipy>=1.13.0",
 ]
